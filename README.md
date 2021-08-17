@@ -10,6 +10,7 @@ A full-stack web developer after 4 years as a Financial Auditor. I love crafting
 ![Express.js](https://img.shields.io/badge/-Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+<br/>
 ![NPM](https://img.shields.io/badge/-NPM-%23000000.svg?logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
